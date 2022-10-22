@@ -1,9 +1,9 @@
 /* estilos principales en css */
+// tarigo import de css de bootstrap
+@import "bootstrap/bootstrap.scss";
 
 div {
-    background-color:red;
+    background-color: red;
 
-    h1 {
-        color: black;
-    }
+
 }
